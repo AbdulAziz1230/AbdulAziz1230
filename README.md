@@ -1,4 +1,4 @@
-A guy who likes to code in C++(/Python? <sub>don't really code in it anymore</sub>) and never finishes his projects. I mostly have interest in game development/App development <sub>([Raylib](https://github.com/raysan5/raylib) my beloved, Pygame for Python though. Who needs a app library when those two exist! (I don't want to learn... ): )</sub>
+A guy who likes to code in C++(/Python? <sub>don't really code in it anymore</sub>) and never finishes his projects. I mostly have interest in game/app development <sub>([Raylib](https://github.com/raysan5/raylib) my beloved, Pygame for Python though. Who needs a app library when those two exist! (I don't want to learn... ): )</sub>
 
 And I love Oneshot and Niko. Yeah, I wanted to include that in here.
 
